@@ -43,6 +43,7 @@ from app.api.openai_passthrough.web_search import (
     OpenAIResponsesWebSearchError,
     build_message_request,
     build_response_json,
+    drop_web_search_tools,
     ensure_web_search_enabled,
     handle_non_streaming_web_search,
     is_responses_web_search_request,
@@ -426,6 +427,16 @@ async def responses_create(
     clamped_choice = clamp_tool_choice(body)
     if clamped_choice:
         logger.info("[OPENAI-PASSTHROUGH] %s", clamped_choice)
+    # With web search off there is nothing to serve the tool with, and mantle
+    # rejects the variant, so drop it and answer without search rather than
+    # failing a request whose other tools are all serviceable.
+    if is_responses_web_search_request(body) and not settings.enable_web_search:
+        dropped_searches = drop_web_search_tools(body)
+        logger.info(
+            "[OPENAI-PASSTHROUGH] dropped %d web_search tool(s): "
+            "ENABLE_WEB_SEARCH is false",
+            dropped_searches,
+        )
     extra = _passthrough_extra_headers(request)
     base_url, api_key = _resolve_upstream_target(api_key_info)
     _info_log_upstream_request(

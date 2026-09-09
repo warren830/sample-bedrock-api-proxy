@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d15cdb94-ad10-492d-903d-d606aac24bf1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="794" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="Mb590Yn8" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3BVpXM6v2iaSbPl8RoTTiin8T8p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ychchen/warren_ws/anthropic_api_converter&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/ychchen/warren_ws/anthropic_api_converter/cdk/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="anthropic_api_converter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="anthropic_api_converter" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="anthropic_api_converter" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="anthropic_api_converter" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d15cdb94-ad10-492d-903d-d606aac24bf1" name="Changes" comment="" />
+      <created>1774584130683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774584130683</updated>
+      <workItem from="1774584131757" duration="1484000" />
+      <workItem from="1775315173368" duration="694000" />
+      <workItem from="1775463426451" duration="1547000" />
+      <workItem from="1775813277463" duration="68000" />
+      <workItem from="1778981963469" duration="7521000" />
+      <workItem from="1780022966488" duration="1801000" />
+      <workItem from="1780026681199" duration="11708000" />
+      <workItem from="1781059002367" duration="12900000" />
+      <workItem from="1781094911114" duration="7492000" />
+      <workItem from="1782033722536" duration="7772000" />
+      <workItem from="1782735496054" duration="623000" />
+      <workItem from="1782788082708" duration="597000" />
+      <workItem from="1785307666786" duration="17547000" />
+      <workItem from="1785578309026" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cdk/bin/app.js" />
+        <option value="$PROJECT_DIR$/cdk/bin/app.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/lib/cognito-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/lib/cognito-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/lib/network-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/lib/network-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/lib/ecs-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/lib/ecs-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/lib/dynamodb-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/lib/dynamodb-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/config/config.js" />
+        <option value="$PROJECT_DIR$/cdk/config/config.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/bin/app.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/bin/app.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/cognito-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/cognito-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/network-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/network-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/ecs-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/ecs-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/dynamodb-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/lib/dynamodb-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/config/config.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.a78ffbd3a6ed66891674fa0c42d20fd960c38c1a6717c74616163779261b3946/cdk/config/config.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/bin/app.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/bin/app.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/cognito-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/cognito-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/network-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/network-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/ecs-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/ecs-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/dynamodb-stack.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/lib/dynamodb-stack.d.ts" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/config/config.js" />
+        <option value="$PROJECT_DIR$/cdk/cdk.out/asset.c605b630f9d3887ac304d770d0ecb6ac15cf5c5bf3fac5fbfd136c0127dfb9ac/cdk/config/config.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="34f35d84-f5fd-4988-a95a-85b96010210d" value="TOOL_WINDOW" />
+        <entry key="2ffdf040-9c2d-46ed-ba81-c4648745ce9b" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="2ffdf040-9c2d-46ed-ba81-c4648745ce9b">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="34f35d84-f5fd-4988-a95a-85b96010210d">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
